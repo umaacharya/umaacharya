@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umaacharya" alt="umaacharya" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript frameworks, PHP, Python and Django**
+- 🌱 I’m currently learning **Javascript frameworks, PHP, Python ,Django and ML**
 
-- 💬 Ask me about **frontend dev queries**
-
-- 📫 How to reach me **umaacharyaofficial@gmail.com**
+- 💬 Ask me about **frontend dev queries and ML and AI**
 
 - ⚡ Fun fact **that i am good yapper**
 
