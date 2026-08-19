@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **frontend dev queries and ML and AI**
 
-- ⚡ Fun fact **that i am good yapper**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
