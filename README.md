@@ -4,6 +4,13 @@
 <h3 align="left">About me:</h3>
 
 -  I'm passionate about Python, Artificial Intelligence, Machine Learning, and Web Development.
+ ## Connect With Me
+
+<p align="center">
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/uma-acharya-35b203401/)">LinkedIn</a> ·
+  <a href="[YOUR_LEETCODE_UR](https://leetcode.com/u/Uma_Acharya/)L">LeetCode</a> ·
+
+</p>
 
 ##  Programming Languages
 
