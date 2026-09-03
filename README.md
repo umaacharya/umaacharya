@@ -4,7 +4,8 @@
 <h3 align="left">About me:</h3>
 
 -  I'm passionate about Python, Artificial Intelligence, Machine Learning, and Web Development.
- ## Connect With Me
+
+<h3 align="left">Connect with me:</h3>
 
 <p align="center">
   <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/uma-acharya-35b203401/)">LinkedIn</a> ·
@@ -12,7 +13,7 @@
 
 </p>
 
-##  Programming Languages
+<h3 align="left">Programming languages:</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -22,7 +23,7 @@
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
 </p>
 
-##  Web Development
+<h3 align="left">Web Development:</h3>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
@@ -31,7 +32,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
   
 </p>
-###  Tools
+<h3 align="left">Tools:</h3>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
