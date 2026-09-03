@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I am Uma Acharya</h2>
-<h3 align="center">A Computer science student from india, kolkata</h3>
+<h4 align="center">A Computer science student from india, kolkata</h4>
 
 <h3 align="left">About me:</h3>
 
